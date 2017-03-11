@@ -1,5 +1,6 @@
 require 'sinatra'
 
 get '/' do
-  redirect '/index.html'
+  # send_file File.join(settings.public_folder, 'index.html')
+  erb :index
 end
