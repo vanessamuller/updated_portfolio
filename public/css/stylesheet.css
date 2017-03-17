@@ -54,3 +54,12 @@ header .intro-text .page-scroll {
   margin-top: 3rem;
   margin-bottom: 2rem;
 }
+
+header .intro-text .intro-heading {
+  font-size:60px;
+}
+
+.row {
+  padding-right: 0px;
+  margin-right: 0px;
+}
